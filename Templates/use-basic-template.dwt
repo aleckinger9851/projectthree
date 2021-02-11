@@ -1,0 +1,41 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<link  href="../styles.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="https://use.typekit.net/zvk2byp.css">
+<link rel="stylesheet" href="https://use.typekit.net/zvk2byp.css">
+<link rel="stylesheet" href="https://use.typekit.net/zvk2byp.css">
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+	<div id="container">
+  <header></header>
+  <nav>
+	<ul>
+		<li><a href="../about.html">About</a></li>
+		<li><a href="../blog.html">Blog</a></li>
+		<li><a href="../gallery2.html">Gallery</a></li>
+		<li><a href="../contact.html">Contact</a></li>
+	</ul>
+  </nav>
+  <!--Begin Floated Elements-->
+  <aside><h3>I am a daughter, a student in high school, an artist, a web developer, a photographer, and avid Star Wars enjoyer. 
+	  </h3>
+    <h3>Join me as I explore my life through this blog. </h3>
+    <h3>By: Ava Leckinger</h3>
+  </aside>
+  <!-- TemplateBeginEditable name="main-content" -->
+  <main>
+    <h1> Page Title </h1>
+  </main>
+  <!-- TemplateEndEditable --><!--End Floated Elements-->
+  <footer>Content for New footer Tag Goes Here</footer>
+</div>
+</body>
+</html>
